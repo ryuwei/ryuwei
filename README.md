@@ -9,4 +9,4 @@ ryuwei/ryuwei is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 # Thanks for visiting my Git! 👋
-<p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></p>
+<p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/ryuwei/count.svg" /></p>
